@@ -1,0 +1,298 @@
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="touchstarcinma.com" resolutions="1x" timestamp="1493669182389">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_main.css" crc="426119462" ref="showtimes---tickets:rewards:location:sold-out:contact:index"/>
+    <file name="nomq_preview_master_main.css" crc="29263707" ref="showtimes---tickets:rewards:location:sold-out:contact:index"/>
+    <file name="showtimes---tickets.css" crc="4220457170" ref="showtimes---tickets"/>
+    <file name="nomq_showtimes---tickets.css" crc="3969813482" ref="showtimes---tickets"/>
+    <file name="rewards.css" crc="3930094336" ref="rewards"/>
+    <file name="nomq_rewards.css" crc="288177718" ref="rewards"/>
+    <file name="location.css" crc="4041628538" ref="location"/>
+    <file name="nomq_location.css" crc="425841918" ref="location"/>
+    <file name="sold-out.css" crc="334033826" ref="sold-out"/>
+    <file name="nomq_sold-out.css" crc="4280583419" ref="sold-out"/>
+    <file name="contact.css" crc="415443126" ref="contact"/>
+    <file name="nomq_contact.css" crc="354909776" ref="contact"/>
+    <file name="index.css" crc="3862835854" ref="index"/>
+    <file name="nomq_index.css" crc="473145836" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:location:rewards:contact:showtimes---tickets:sold-out"/>
+    <file name="museutils.js" crc="4232573551" ref="index:location:rewards:contact:showtimes---tickets:sold-out"/>
+    <file name="whatinput.js" crc="86476730" ref="index:location:rewards:contact:showtimes---tickets:sold-out"/>
+    <file name="museconfig.js" crc="3849126041" ref="index:location:rewards:contact:showtimes---tickets:sold-out"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3880853905" ref="index"/>
+    <file name="webpro.js" crc="3770351119" ref="index:contact"/>
+    <file name="musewpslideshow.js" crc="4244742588" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="432750910" ref="index"/>
+    <file name="touchswipe.js" crc="3912873526" ref="index"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index:location:rewards:contact:showtimes---tickets:sold-out"/>
+    <file name="jquery.museresponsive.js" crc="433634197" ref="index:location:rewards:contact:showtimes---tickets:sold-out"/>
+    <file name="require.js" crc="4234670167" ref="index:location:rewards:contact:showtimes---tickets:sold-out"/>
+    <file name="form_check.php" crc="3841221102" ref="contact"/>
+    <file name="form_throttle.php" crc="4048049783" ref="contact"/>
+    <file name="form_process.php" crc="3899230280" ref="contact"/>
+    <file name="form-u1091.php" crc="347866902" ref="contact"/>
+    <file name="form-u2212.php" crc="269983643" ref="contact"/>
+  </folder>
+  <folder name="images">
+    <file name="touchstarbutton.png" crc="522393317" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u385-4.png" crc="3953526869" ref="index:location:rewards:contact:showtimes---tickets:sold-out"/>
+    <file name="u388-4.png" crc="4015771460" ref="index:location:rewards:contact:showtimes---tickets:sold-out"/>
+    <file name="u394-4.png" crc="432989457" ref="index:location:rewards:contact:showtimes---tickets:sold-out"/>
+    <file name="u397-4.png" crc="448653482" ref="index:location:rewards:contact:showtimes---tickets:sold-out"/>
+    <file name="u391-4.png" crc="489974010" ref="index:location:rewards:contact:showtimes---tickets:sold-out"/>
+    <file name="search.jpg" crc="3843458878" seo="true" ref="index:location:rewards:contact:showtimes---tickets:sold-out">
+      <caption webpage="index" alt=""/>
+      <caption webpage="location" alt=""/>
+      <caption webpage="rewards" alt=""/>
+      <caption webpage="showtimes---tickets" alt=""/>
+      <caption webpage="sold-out" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="sign-in.png" crc="400114152" seo="true" ref="index:location:rewards:contact:showtimes---tickets:sold-out">
+      <caption webpage="index" alt=""/>
+      <caption webpage="location" alt=""/>
+      <caption webpage="rewards" alt=""/>
+      <caption webpage="showtimes---tickets" alt=""/>
+      <caption webpage="sold-out" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="touchstardesktop-crop-u497.png" crc="388284929" seo="true" ref="index:location:rewards:contact:showtimes---tickets:sold-out">
+      <caption webpage="index" alt=""/>
+      <caption webpage="location" alt=""/>
+      <caption webpage="rewards" alt=""/>
+      <caption webpage="showtimes---tickets" alt=""/>
+      <caption webpage="sold-out" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="follow.png" crc="3834253845" seo="true" ref="index:location:rewards:contact:showtimes---tickets:sold-out">
+      <caption webpage="index" alt=""/>
+      <caption webpage="location" alt=""/>
+      <caption webpage="rewards" alt=""/>
+      <caption webpage="showtimes---tickets" alt=""/>
+      <caption webpage="sold-out" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="now-playing_02.jpg" crc="4186375941" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:location:rewards:contact:showtimes---tickets:sold-out"/>
+    <file name="beauty-beast-2017-movie-posters.jpg" crc="3937494193" seo="true" ref="index:showtimes---tickets">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="showtimes---tickets" alt=""/>
+    </file>
+    <file name="boss baby.jpg" crc="139057959" seo="true" ref="index:showtimes---tickets">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="showtimes---tickets" alt=""/>
+      <caption webpage="showtimes---tickets" alt=""/>
+    </file>
+    <file name="furiousposter.jpg" crc="3834797738" seo="true" ref="index:showtimes---tickets">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="showtimes---tickets" alt=""/>
+      <caption webpage="showtimes---tickets" alt=""/>
+    </file>
+    <file name="u845-8.png" crc="4102809421" ref="index"/>
+    <file name="u844-7.png" crc="3897120428" ref="index"/>
+    <file name="u843-7.png" crc="3850534020" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="u956-4.png" crc="270123003" ref="index"/>
+    <file name="u965-4.png" crc="141964012" ref="index"/>
+    <file name="guard.jpg" crc="3778449377" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="circle.jpg" crc="496067421" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="everything.jpg" crc="4254514778" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="king.jpg" crc="4253410251" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1008-4.png" crc="4142071633" ref="index"/>
+    <file name="u1011-4.png" crc="322551495" ref="index"/>
+    <file name="u1014-4.png" crc="71895427" ref="index"/>
+    <file name="u1017-4.png" crc="3859232373" ref="index"/>
+    <file name="u511-4.png" crc="3953526869" ref="index:location:rewards:contact:showtimes---tickets:sold-out"/>
+    <file name="u508-4.png" crc="4015771460" ref="index:location:rewards:contact:showtimes---tickets:sold-out"/>
+    <file name="u512-4.png" crc="432989457" ref="index:location:rewards:contact:showtimes---tickets:sold-out"/>
+    <file name="u510-4.png" crc="448653482" ref="index:location:rewards:contact:showtimes---tickets:sold-out"/>
+    <file name="u509-4.png" crc="489974010" ref="index:location:rewards:contact:showtimes---tickets:sold-out"/>
+    <file name="u1594-4.png" crc="4249639852" ref="index:location:rewards:contact:showtimes---tickets:sold-out"/>
+    <file name="u1595-4.png" crc="302004266" ref="index:location:rewards:contact:showtimes---tickets:sold-out"/>
+    <file name="u1596-4.png" crc="521172633" ref="index:location:rewards:contact:showtimes---tickets:sold-out"/>
+    <file name="u1597-4.png" crc="4000497856" ref="index:location:rewards:contact:showtimes---tickets:sold-out"/>
+    <file name="u1598-4.png" crc="4049326508" ref="index:location:rewards:contact:showtimes---tickets:sold-out"/>
+    <file name="touchstarbutton2.png" crc="522393317" seo="true" ref="index:location:rewards:contact:showtimes---tickets:sold-out">
+      <caption webpage="index" alt=""/>
+      <caption webpage="location" alt=""/>
+      <caption webpage="rewards" alt=""/>
+      <caption webpage="showtimes---tickets" alt=""/>
+      <caption webpage="sold-out" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="newsletter.png" crc="501490039" seo="true" ref="index:location:rewards:contact:showtimes---tickets:sold-out">
+      <caption webpage="index" alt=""/>
+      <caption webpage="location" alt=""/>
+      <caption webpage="rewards" alt=""/>
+      <caption webpage="showtimes---tickets" alt=""/>
+      <caption webpage="sold-out" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="felix-mooneeram-222805.jpg" crc="4055277757" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1839-4.png" crc="4142421151" ref="index"/>
+    <file name="u1838-4.png" crc="4030332329" ref="index"/>
+    <file name="u1840-4.png" crc="33172807" ref="index"/>
+    <file name="u1854-4.png" crc="4260425538" ref="index"/>
+    <file name="u1857-4.png" crc="320925543" ref="index"/>
+    <file name="u1858-4.png" crc="3854935288" ref="index"/>
+    <file name="u1867-4.png" crc="297732338" ref="index"/>
+    <file name="u1868-4.png" crc="3875398152" ref="index"/>
+    <file name="u1869-4.png" crc="366243342" ref="index"/>
+    <file name="u1870-4.png" crc="265957095" ref="index"/>
+    <file name="locations_02.jpg" crc="4238134195" seo="true" ref="location">
+      <caption webpage="location" alt=""/>
+    </file>
+    <file name="u1060-4.png" crc="4136515796" ref="location"/>
+    <file name="u2028-4.png" crc="4268991293" ref="location"/>
+    <file name="u2030-6.png" crc="3841932211" ref="location"/>
+    <file name="u2031-4.png" crc="138382815" ref="location"/>
+    <file name="u2034-4.png" crc="176303560" ref="location"/>
+    <file name="u2035-4.png" crc="4066926300" ref="location"/>
+    <file name="u2036-6.png" crc="3945694650" ref="location"/>
+    <file name="u2037-6.png" crc="3803890434" ref="location"/>
+    <file name="u2039-4.png" crc="3823409961" ref="location"/>
+    <file name="u2043-4.png" crc="3823409961" ref="location"/>
+    <file name="u2046-4.png" crc="3823409961" ref="location"/>
+    <file name="rewards_02.png" crc="200993223" seo="true" ref="rewards">
+      <caption webpage="rewards" alt=""/>
+    </file>
+    <file name="tickets-crop-u2109.png" crc="3907616442" seo="true" ref="rewards">
+      <caption webpage="rewards" alt=""/>
+    </file>
+    <file name="u2112-4.png" crc="4005055051" ref="rewards"/>
+    <file name="popcorn.png" crc="68227631" seo="true" ref="rewards">
+      <caption webpage="rewards" alt=""/>
+    </file>
+    <file name="u2119-4.png" crc="476295313" ref="rewards"/>
+    <file name="u2120-6.png" crc="4168519066" ref="rewards"/>
+    <file name="seats-crop-u1256.png" crc="255152895" seo="true" ref="rewards">
+      <caption webpage="rewards" alt=""/>
+    </file>
+    <file name="u2123-4.png" crc="531273475" ref="rewards"/>
+    <file name="u2125-4.png" crc="3900334585" ref="rewards"/>
+    <file name="barcode.jpg" crc="422413571" seo="true" ref="rewards">
+      <caption webpage="rewards" alt=""/>
+    </file>
+    <file name="u1164-4.png" crc="154384727" ref="contact"/>
+    <file name="pasted-svg-42058x228.svg" crc="716835" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="pasted svg 42058x228_poster_.png" crc="4084577207" ref="contact"/>
+    <file name="tickets.png" crc="197586287" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="popcorn2.png" crc="3925854457" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="seats-crop-u12562.png" crc="139224575" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="u1275-4.png" crc="4268165597" ref="contact"/>
+    <file name="u1278-4.png" crc="290379966" ref="contact"/>
+    <file name="u1281-4.png" crc="116442314" ref="contact"/>
+    <file name="u1284-4.png" crc="97263131" ref="contact"/>
+    <file name="u1094.png" crc="4059754022" ref="contact"/>
+    <file name="u1094-ferr.png" crc="97132893" ref="contact"/>
+    <file name="u1102.png" crc="3849252123" ref="contact"/>
+    <file name="u1102-ferr.png" crc="3986723163" ref="contact"/>
+    <file name="u1099-fss.png" crc="332324005" ref="contact"/>
+    <file name="u1097.png" crc="4283321851" ref="contact"/>
+    <file name="u1097-r.png" crc="4261348443" ref="contact"/>
+    <file name="u1097-m.png" crc="4289051868" ref="contact"/>
+    <file name="u1097-fs.png" crc="4209489894" ref="contact"/>
+    <file name="u1107.png" crc="478688625" ref="contact"/>
+    <file name="u1107-ferr.png" crc="390565608" ref="contact"/>
+    <file name="u1145.png" crc="4045915268" ref="contact"/>
+    <file name="u1145-ferr.png" crc="367828984" ref="contact"/>
+    <file name="u2227.png" crc="4156728316" ref="contact"/>
+    <file name="u2227-ferr.png" crc="97132893" ref="contact"/>
+    <file name="u2215.png" crc="51417587" ref="contact"/>
+    <file name="u2215-ferr.png" crc="3986723163" ref="contact"/>
+    <file name="u2228-fss.png" crc="249170659" ref="contact"/>
+    <file name="u2218.png" crc="3830219564" ref="contact"/>
+    <file name="u2218-r.png" crc="3968928142" ref="contact"/>
+    <file name="u2218-m.png" crc="74951208" ref="contact"/>
+    <file name="u2218-fs.png" crc="4209489894" ref="contact"/>
+    <file name="u2223.png" crc="190574913" ref="contact"/>
+    <file name="u2223-ferr.png" crc="390565608" ref="contact"/>
+    <file name="u2229-4.png" crc="4141990016" ref="contact"/>
+    <file name="jeremy-yap-160713-crop-u1297.jpg" crc="3980036150" seo="true" ref="showtimes---tickets">
+      <caption webpage="showtimes---tickets" alt=""/>
+    </file>
+    <file name="beauty-beast-2017-movie-posters-crop-u1342.jpg" crc="72374699" seo="true" ref="showtimes---tickets">
+      <caption webpage="showtimes---tickets" alt=""/>
+    </file>
+    <file name="u1349-4.png" crc="4264600988" ref="showtimes---tickets"/>
+    <file name="u1352-4.png" crc="306155422" ref="showtimes---tickets"/>
+    <file name="u1355-4.png" crc="4254978292" ref="showtimes---tickets"/>
+    <file name="u1358-6.png" crc="4118794191" ref="showtimes---tickets"/>
+    <file name="u1364-5.png" crc="3987074139" ref="showtimes---tickets"/>
+    <file name="u1367-4.png" crc="306258675" ref="showtimes---tickets"/>
+    <file name="u1370-5.png" crc="3987074139" ref="showtimes---tickets"/>
+    <file name="u1373-4.png" crc="306258675" ref="showtimes---tickets"/>
+    <file name="u1376-4.png" crc="306258675" ref="showtimes---tickets"/>
+    <file name="u1379-5.png" crc="3987074139" ref="showtimes---tickets"/>
+    <file name="pasted-svg-345428x38.svg" crc="4283355608" seo="true" ref="showtimes---tickets">
+      <caption webpage="showtimes---tickets" alt=""/>
+      <caption webpage="showtimes---tickets" alt=""/>
+      <caption webpage="showtimes---tickets" alt=""/>
+    </file>
+    <file name="pasted svg 345428x38_poster_.png" crc="3899736267" ref="showtimes---tickets"/>
+    <file name="u1402-4.png" crc="4000126813" ref="showtimes---tickets"/>
+    <file name="u1407-4.png" crc="4000126813" ref="showtimes---tickets"/>
+    <file name="u1424-4.png" crc="4000126813" ref="showtimes---tickets"/>
+    <file name="jeremy-yap-160713-crop-u2287.jpg" crc="4122647541" seo="true" ref="showtimes---tickets">
+      <caption webpage="showtimes---tickets" alt=""/>
+    </file>
+    <file name="u2299-4.png" crc="4213261221" ref="showtimes---tickets"/>
+    <file name="u2300-4.png" crc="3860663115" ref="showtimes---tickets"/>
+    <file name="u2301-4.png" crc="384183096" ref="showtimes---tickets"/>
+    <file name="u2302-7.png" crc="315311925" ref="showtimes---tickets"/>
+    <file name="u2303-7.png" crc="315311925" ref="showtimes---tickets"/>
+    <file name="u2304-7.png" crc="315311925" ref="showtimes---tickets"/>
+    <file name="u2306-4.png" crc="267718364" ref="showtimes---tickets"/>
+    <file name="u2308-4.png" crc="267718364" ref="showtimes---tickets"/>
+    <file name="u2311-4.png" crc="267718364" ref="showtimes---tickets"/>
+    <file name="u2314-4.png" crc="267718364" ref="showtimes---tickets"/>
+    <file name="u2315-6.png" crc="4152524239" ref="showtimes---tickets"/>
+    <file name="u1462-4.png" crc="4253870109" ref="sold-out"/>
+    <file name="pasted-svg-345428x382.svg" crc="4283355608" seo="true" ref="sold-out">
+      <caption webpage="sold-out" alt=""/>
+    </file>
+    <file name="pasted svg 345428x38_poster_2.png" crc="301318211" ref="sold-out"/>
+    <file name="u1475-4.png" crc="388401206" ref="sold-out"/>
+    <file name="u2408-4.png" crc="4068600684" ref="sold-out"/>
+    <file name="u2410-4.png" crc="125908071" ref="sold-out"/>
+  </folder>
+  <file name="index.html" crc="4067751722" seo="true" mt="1493668606559" redirect="true"/>
+  <file name="location.html" crc="4162459908" seo="true" mt="1493668662768" redirect="true"/>
+  <file name="rewards.html" crc="478244984" seo="true" mt="1493668706353" redirect="true"/>
+  <file name="contact.html" crc="86935443" seo="true" mt="1493669176241" redirect="true"/>
+  <file name="showtimes---tickets.html" crc="28988215" seo="true" mt="1493668928097" redirect="true"/>
+  <file name="sold-out.html" crc="4060606465" seo="true" mt="1493669000809" redirect="true"/>
+</manifest>
